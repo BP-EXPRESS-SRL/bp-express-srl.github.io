@@ -1,0 +1,37 @@
+----------------------------------------------------
+WELCOME TO MY PAGE
+----------------------------------------------------
+&nbsp;
+Press [ESC] to exit
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b">login BP-EXPRESS-SRL</span>
+&nbsp;
+Enter Your Username: BP-EXPRESS-SRL
+Enter Your Password: ****************************
+<span style="color: transparent">QWx3YXlzIGxlYXJuaW5nIQ==</span>
+Login session was successful. <span id="k">Welcome, BP-EXPRESS-SRL!</span>
+Type [cmds] to see all of the available commands.
+&nbsp;
+<span id="a">\\Root\ATL-srg\BP-EXPRESS-SRL&gt;</span><span id="b">About me</span>
+Receiving submited information...
+<span style="color: transparent">CEEFHNTAKSCDFEETEIGTATIERFEDNSPNOACTSHEONESILNFNKATTSEAA</span>
+Hello, We are the BP Express. ...
+<span id="c"><a href="https://it.linkedin.com/in/..." target="_blank">Our CEO</a></span>
+<span id="c"><a href="https://github.com/bp-express-srl" target="_blank">Our Github profile</a></span>
+Want to know me more? contact us!
+&nbsp;
+<span id="a">\\Root\ATL-srg\BP-EXPRESS-SRL&gt;</span><span id="b">view prof.json</span>
+{
+    ...
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\BP-EXPRESS-SRL&gt;</span><span id="b">view links.json</span>
+{
+    ...
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\BP-EXPRESS-SRL&gt;</span><span id="b">logout</span>
+<span style="color: transparent">Thx for visiting</span>
+Successfully logged out! Hope you have a wonderful day!
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
